@@ -1,5 +1,5 @@
 # SisInfo
-# 🧠 Pensamiento Sistémico - 2025982
+# 🧠 Sistemas de Información - 2025982
 **Créditos: **3
 **Página del curso: ** https://enrique213-vp.github.io/Asignatura-sistemasDeInformacion
 **Profesor: ** Sergio Enrique Vargas Pedraza [sevargasp@unal.edu.co](sevargasp@unal.edu.co)
